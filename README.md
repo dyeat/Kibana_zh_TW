@@ -50,3 +50,4 @@ $ systemctl restart kibana.service
 | 標簽   |  標籤  |
 | 添加   |  新增  |
 | 全屏   | 全螢幕 |
+| 次命中   | 條符合 |

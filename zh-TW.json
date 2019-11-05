@@ -1394,7 +1394,7 @@
     "kbn.discover.fieldChooser.toggleFieldFilterButtonHideAriaLabel": "隱藏字段設置",
     "kbn.discover.fieldChooser.toggleFieldFilterButtonShowAriaLabel": "顯示字段設置",
     "kbn.discover.histogramOfFoundDocumentsAriaLabel": "已找到文檔的直方圖",
-    "kbn.discover.hitsPluralTitle": "{hits, plural, one {次命中} other {次命中}}",
+    "kbn.discover.hitsPluralTitle": "{hits, plural, one {條符合} other {條符合}}",
     "kbn.discover.howToChangeTheTimeTooltip": "要更改時間，請單擊導航欄中的時鐘圖標",
     "kbn.discover.howToSeeOtherMatchingDocumentsDescription": "以下是匹配您的搜尋的前 {sampleSize} 個文檔，請優化您的搜尋以查看其他文檔。",
     "kbn.discover.inspectorRequest.segmentFetchCompleteStatusDescription": "此請求將查詢 Elasticsearch 以獲取搜尋的資料。",
