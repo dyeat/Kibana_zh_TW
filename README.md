@@ -61,7 +61,7 @@ $ systemctl restart kibana.service
 | 合並   | 合併 |
 | 示例   | 範例 |
 | 布爾   | 布林 |
-| 日歷   | 日歷 |
+| 日歷   | 日曆 |
 | 服務器   | 伺服器 |
 | 打印   | 列印 |
 | 撤消   | 撤銷 |
